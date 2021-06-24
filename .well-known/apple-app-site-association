@@ -11,6 +11,9 @@
             "/": "/content/user/*"
           }
         ]
+    }, {
+      "appID": "com.ponder.chat",
+      "paths": ["/content/conversation/*", "/content/user/*"]
     }]
   }
 }
