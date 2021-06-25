@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [{
-        "appIDs": ["com.ponder.chat"],
+        "appIDs": ["9SH5998NP3.com.ponder.chat"],
         "components": [
           {
             "/": "/content/conversation/*"
