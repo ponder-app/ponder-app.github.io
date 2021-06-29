@@ -5,15 +5,12 @@
         "appIDs": ["9SH5998NP3.com.ponder.chat"],
         "components": [
           {
-            "/": "/content/conversation/*"
-          },
-          {
-            "/": "/content/user/*"
+            "/": "/content/*"
           }
         ]
     }, {
       "appID": "com.ponder.chat",
-      "paths": ["/content/conversation/*", "/content/user/*"]
+      "paths": ["/content/*"]
     }]
   }
 }
