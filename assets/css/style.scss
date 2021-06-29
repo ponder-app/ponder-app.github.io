@@ -1,0 +1,26 @@
+---
+---
+
+@import"{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+
+.page-header {
+  color:#222;
+  background-color:#b2d2d7;
+  background-image:none
+}
+
+.main-content {
+  text-align: center;
+}
+
+.app-store-button {
+  width: 175px;
+}
