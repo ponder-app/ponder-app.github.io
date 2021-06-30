@@ -1,7 +1,7 @@
 ---
 title: Ponder
 image: /assets/image/Icon-1024-borderless.png
-description: Page description
+description: App download
 ---
 
 Ponder is an app for invite-only text conversations that anyone can read.
