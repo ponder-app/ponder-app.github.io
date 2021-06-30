@@ -1,12 +1,9 @@
 ---
-permalink: /404.html
-title: Ponder
-image: /assets/image/Icon-1024-borderless.png
-description: We couldn't find that page
-redirect_to: /
+layout: custom_redirect
+title: 'Ponder — Shared Content'
+description: Shared content
+redirectTo: https://apps.apple.com/us/app/ponder-invite-only-convos/id1564974290
 ---
-
-[comment]: # (Duplicate the home page in the event that the user is not redirected as intended)
 
 Ponder is an app for invite-only text conversations that anyone can read.
 

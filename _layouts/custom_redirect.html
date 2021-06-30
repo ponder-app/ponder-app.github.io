@@ -1,0 +1,37 @@
+<!-- This must not be named "redirect.html" because it will automatically be applied to all redirects -->
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+
+    <!--  This is basically copied from a curl request to the root page which uses
+      the seo plugin. The custom layout doesn't appear to include the plugin info
+      so we need to add it ourselves -->
+
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+    <title>Ponder | Invite-only convos that anyone can read</title>
+    <meta name="generator" content="Jekyll v3.9.0" />
+    <meta property="og:title" content="{{ page.title | default: site.title }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:description" content="App download" />
+    <link rel="canonical" href="{{ site.url }}" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
+    <meta property="og:image" content="{{ page.image | default: site.image }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="{{ page.image | default: site.image }}" />
+    <meta property="twitter:title" content="{{ page.title | default: site.title }}" />
+    <script type="application/ld+json">
+        {"description":"{{ page.title }}","url":" {{ site.url }}","@type":"WebSite","image":"{{ page.image }}","name":"{{ site.title }}","headline":"{{ site.title }}","@context":"https://schema.org"}</script>
+    <!-- End Jekyll SEO tag -->
+    <meta http-equiv="refresh" content="0;url={{ page.redirectTo }}" />
+    <script>
+        window.location.replace("{{ page.redirectTo }}");
+    </script>
+</head>
+<body>
+ {{ content }}
+</body>
+</body>
+</html>
