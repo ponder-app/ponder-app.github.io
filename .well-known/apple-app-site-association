@@ -5,7 +5,7 @@
         "appIDs": ["9SH5998NP3.com.ponder.chat"],
         "components": [
           {
-            "/": "/content/*"
+            "/": "/content/query*"
           }
         ]
     }, {
