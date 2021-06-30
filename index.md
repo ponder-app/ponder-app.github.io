@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ponder
 image: /assets/image/Icon-1024-borderless.png
 description: App download
