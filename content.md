@@ -1,7 +1,7 @@
 ---
 layout: custom_redirect
-title: 'Ponder: Shared Content'
-description: App download
+title: 'Ponder — Shared Content'
+description: Shared content
 redirectTo: https://apps.apple.com/us/app/ponder-invite-only-convos/id1564974290
 ---
 
