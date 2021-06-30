@@ -1,7 +1,6 @@
 ---
 layout: custom_redirect
 title: Ponder: Shared Content
-image: /assets/image/Icon-1024-borderless.png
 description: App download
 redirectTo: https://apps.apple.com/us/app/ponder-invite-only-convos/id1564974290
 ---
