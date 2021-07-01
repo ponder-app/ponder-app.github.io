@@ -6,6 +6,16 @@ $section-headings-color: #82a2a7;
 
 @import"{{ site.theme }}";
 
+.home-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  img {
+    width: 50px;
+  }
+}
+
 footer {
   display: none !important;
 }
