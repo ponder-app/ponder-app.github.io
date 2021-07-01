@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-slate
 title: 'Ideas for creators'
 description: Ideas for creators
 ---
