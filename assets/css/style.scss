@@ -2,7 +2,7 @@
 ---
 
 // h1, h2, etc
-$section-headings-color: #444;
+$section-headings-color: #888;
 
 @import"{{ site.theme }}";
 
@@ -17,7 +17,7 @@ footer {
 }
 
 .main-content {
-  //text-align: center;
+  text-align: center;
   max-width: 900px;
 }
 
