@@ -1,6 +1,6 @@
 ---
-title: 'Content Creators'
-description: An overview of Ponder and how you can use it to best effect
+title: 'Guide'
+description: How to use Ponder to best effect
 style: guide
 ---
 
