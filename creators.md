@@ -1,6 +1,7 @@
 ---
 title: 'Ideas for creators'
 description: Ideas for creators
+style: creators
 ---
 
 # What is Ponder?
