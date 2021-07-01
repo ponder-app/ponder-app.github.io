@@ -10,6 +10,11 @@ $section-headings-color: #82a2a7;
   position: absolute;
   top: 0;
   left: 0;
+  color: inherit;
+
+  a {
+    text-decoration: none;
+  }
 
   img {
     width: 50px;
@@ -17,8 +22,8 @@ $section-headings-color: #82a2a7;
   }
 
   h3 {
-    text-decoration: none;
     color: inherit;
+    display: inline;
   }
 }
 
