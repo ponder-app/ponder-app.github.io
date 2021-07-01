@@ -1,6 +1,6 @@
 ---
 title: Ponder
-description: App download
+description: Buckle up. It's ready.
 ---
 
 Ponder is an app for invite-only text conversations that anyone can read.
