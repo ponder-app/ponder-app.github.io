@@ -1,7 +1,7 @@
 ---
 title: 'Content Creators'
 description: An overview of Ponder and how you can use it to best effect
-style: creators
+style: guide
 ---
 
 # What is Ponder?
