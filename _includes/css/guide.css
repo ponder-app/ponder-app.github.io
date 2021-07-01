@@ -2,3 +2,7 @@
 .btn {
   display: none !important;
 }
+
+.main-content {
+  text-align: initial;
+}
