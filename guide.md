@@ -1,6 +1,6 @@
 ---
 title: About
-description: What is Ponder and how can you use it?
+description: A bit more about the app and how it can be used
 style: guide
 ---
 
