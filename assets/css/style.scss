@@ -6,6 +6,8 @@ $section-headings-color: #82a2a7;
 
 @import"{{ site.theme }}";
 
+$breakpoint-tablet: 768px;
+
 .home-button {
   position: absolute;
   top: 0;
@@ -20,6 +22,10 @@ $section-headings-color: #82a2a7;
   h3 {
     color: inherit;
     display: inline;
+
+    @media (max-width: $breakpoint-tablet) {
+      display: none;
+    }
   }
 }
 
