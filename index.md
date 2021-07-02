@@ -10,7 +10,8 @@ social media and text messaging, or a platform for real-time podcasts over text.
 Users can subscribe to a conversation to follow it in real time just like regular text messaging.
 Subscribers will receive push notifications for every message in the convo.
 
-The content feed isn't driven by an algorithm — users only see the content that they ask to.
+The message feed isn't driven by an algorithm — users only see the conversations that they subscribe to
+and they're guaranteed to receive every message in those convos, just like regular text messaging.
 
 ## How does it work?
 * Create a conversation and optionally invite others to join
