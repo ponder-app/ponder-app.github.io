@@ -1,6 +1,6 @@
 ---
 title: About
-description: A bit more about the app and how it can be used
+description: Here's a bit more about the app and how it can be used
 style: guide
 ---
 
