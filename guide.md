@@ -13,11 +13,11 @@ Subscribers will receive push notifications for every message in the convo.
 
 ## How does it work?
 * Create a conversation and optionally invite others to join
-  * The conversation starts when at least one person accepts the invitation
+* The conversation starts when at least one person accepts the invitation
 * Conversations can be read by anyone, but only those who were invited can write messages
 
 ## What can you do with it?
 * Have a conversation with others (of course)
 * Create a convo by yourself to post your thoughts on a specific topic or cover a range of topics over time
 * Interview or debate someone
-* Post funny interesting content to your audience
+* Post funny or just interesting content to your audience
