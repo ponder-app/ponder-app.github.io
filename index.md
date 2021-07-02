@@ -19,8 +19,14 @@ and they're guaranteed to receive every message in those convos, just like regul
 * Conversations can be read by anyone, but only those who were invited can write messages
 
 ## What can you do with it?
+* Invite one or more people to discuss a particular topic
+* Interview or debate someone in a public forum
 * Create a convo by yourself to post your thoughts on a specific topic or cover a range of topics over time
-* Interview or debate someone
 * Post entertaining, informative, or just interesting content to your audience
 
+## Example convos
+* `Crypto`: What are the benefits and downsides of a world in which cryptocurrencies dominate? Is it overhyped?
+* `Politics`: What's the underlying psychological cause of the political divide in the US? Is it the
+  product of emotional problems on all sides?
+* `Fitness`: Daily catalogue of your fitness routine and lessons learned throughout the process
 
