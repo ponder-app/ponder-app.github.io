@@ -7,8 +7,10 @@ description: Buckle up. It's ready.
 It's an app for invite-only text conversations that anyone can read. Think of it as a hybrid of
 social media and text messaging, or a platform for real-time podcasts over text.
 
-Users can subscribe to a conversation to follow it in real-time just like regular text messaging.
+Users can subscribe to a conversation to follow it in real time just like regular text messaging.
 Subscribers will receive push notifications for every message in the convo.
+
+The content feed isn't driven by an algorithm — users only see the content that they ask to.
 
 ## How does it work?
 * Create a conversation and optionally invite others to join
@@ -16,7 +18,8 @@ Subscribers will receive push notifications for every message in the convo.
 * Conversations can be read by anyone, but only those who were invited can write messages
 
 ## What can you do with it?
-* Have a conversation with others (of course)
 * Create a convo by yourself to post your thoughts on a specific topic or cover a range of topics over time
 * Interview or debate someone
-* Post funny or just interesting content to your audience
+* Post entertaining, informative, or just interesting content to your audience
+
+
