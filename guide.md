@@ -8,7 +8,7 @@ style: guide
 It's an app for invite-only text conversations that anyone can read. Think of it as a hybrid of
 social media and text messaging, or a platform for real-time podcasts over text.
 
-Users can subscribe to conversations to follow it in real-time just like regular text messaging.
+Users can subscribe to a conversation to follow it in real-time just like regular text messaging.
 Subscribers will receive push notifications for every message in the convo.
 
 ## How does it work?
