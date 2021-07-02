@@ -29,7 +29,8 @@ and they're guaranteed to receive every message in those convos, just like regul
 * `Politics`: What's the underlying psychological cause of the political divide in the US? Is it the
   product of emotional problems on all sides?
 * `Fitness`: Daily catalogue of your fitness routine and lessons learned throughout the process
-* `Music`: Post your favorite music discoveries
-* `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning in real-time
+* `Music`: Post your favorite music discoveries. Share the beats
+* `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning
+  in real-time. If something is 🚀 🌝 then we need to know 
 * `Humor`: Oh you're funny, you say? The floor is yours
 
