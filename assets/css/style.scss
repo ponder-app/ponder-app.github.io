@@ -15,17 +15,8 @@ $breakpoint-tablet: 768px;
   color: inherit;
 
   img {
-    width: 50px;
+    width: 75px;
     vertical-align: middle;
-  }
-
-  h3 {
-    color: inherit;
-    display: inline;
-
-    @media (max-width: $breakpoint-tablet) {
-      display: none;
-    }
   }
 }
 
