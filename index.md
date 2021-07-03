@@ -20,9 +20,11 @@ and they're guaranteed to receive every message in those convos in the order tha
 
 ## What can you do with it?
 * Invite one or more people to talk about a shared interest
+* Remove participants and invite new ones over time to cover a variety of topics
 * Interview or debate someone in a public forum
-* Create a convo by yourself to post your thoughts on a specific topic or cover a range of topics over time
-* Post entertaining, informative, or just interesting content to your audience
+* Create a convo by yourself to post your thoughts on a specific topic; kind of like
+  a Tweet thread except it's organized.
+* Post informative or entertaining content to your audience
 
 ## Example convos
 * `Crypto`: What are the benefits and downsides of changing to a crypto-based economy? Is it
