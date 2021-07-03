@@ -30,7 +30,7 @@ and they're guaranteed to receive every message in those convos in the order tha
 * `Politics`: What's the underlying psychological cause of the political divide in the US? Is it a
   sign of emotional problems on all sides?
 * `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning
-  in real-time. If something is 🚀 🌝 then we need to know.
+  in real-time. 🚀 🌝?
 * `Fitness`: Share your daily workout routine and lessons learned throughout the process.
 * `Music`: Post your favorite music discoveries. Share the beats.
 * `Humor`: Oh you're funny, you say? The floor is yours.
