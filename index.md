@@ -29,9 +29,9 @@ and they're guaranteed to receive every message in those convos in the order tha
   forced for the sake of innovation and change?
 * `Politics`: What's the underlying psychological cause of the political divide in the US? Is it a
   sign of emotional problems on all sides?
-* `Fitness`: Catalogue your daily fitness routine and lessons learned throughout the process.
-* `Music`: Post your favorite music discoveries. Share the beats.
 * `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning
   in real-time. If something is 🚀 🌝 then we need to know.
+* `Fitness`: Share your daily workout routine and lessons learned throughout the process.
+* `Music`: Post your favorite music discoveries. Share the beats.
 * `Humor`: Oh you're funny, you say? The floor is yours.
 
