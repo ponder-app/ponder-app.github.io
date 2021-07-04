@@ -27,13 +27,11 @@ and they're guaranteed to receive every message in those convos in the order tha
 * Post informative or entertaining content to your audience
 
 ## Example convos
-* `Crypto`: What are the benefits and downsides of changing to a crypto-based economy? Is it
-  forced for the sake of innovation and change?
-* `Politics`: What's the underlying psychological cause of the political divide in the US? Is it a
-  sign of emotional problems on all sides?
+* `Crypto`: What are the benefits and downsides of changing to a crypto-based economy?
+* `Politics`: What's the underlying psychological cause of the political divide in the US?
 * `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning
   in real-time. 🚀 🌝?
-* `Fitness`: Share your daily workout routine and lessons learned throughout the process.
+* `Fitness`: Share your daily workout routine and lessons learned.
 * `Music`: Post your favorite music discoveries. Share the beats.
 * `Humor`: Oh you're funny, you say? The floor is yours.
 
