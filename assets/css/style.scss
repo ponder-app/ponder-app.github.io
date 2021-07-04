@@ -2,7 +2,8 @@
 ---
 
 // h1, h2, etc
-$section-headings-color: #82a2a7;
+// See: https://github.com/pages-themes/cayman/blob/master/_sass/variables.scss
+$section-headings-color: #729297;
 
 @import"{{ site.theme }}";
 
