@@ -21,9 +21,9 @@ and they're guaranteed to receive every message in those convos in the order tha
 ## What can you do with it?
 * Invite one or more people to talk about a shared interest
 * Remove participants and invite new ones over time to cover a variety of topics
-* Interview or debate someone in a public forum
+* Interview or debate someone
 * Create a convo by yourself to post your thoughts on a specific topic — like
-  a Tweet thread, except it's organized.
+  a Tweet thread, except it's organized
 * Post informative or entertaining content to your audience
 
 ## Example convos
