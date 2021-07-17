@@ -1,37 +1,8 @@
 ---
 title: Ponder
-description: Buckle up. It's ready.
+description: Invite-only texting that anyone can read
 ---
 
-## What is Ponder?
-It's an app for invite-only text conversations that anyone can read. Think of it as a hybrid of
-social media and text messaging, or a platform for real-time podcasts over text.
-
-Users can subscribe to a conversation to follow it in real time just like regular text messaging.
-Subscribers will receive push notifications for every message in the convo.
-
-The message feed isn't driven by an algorithm; users only see the conversations that they subscribe to,
-and they're guaranteed to receive every message in those convos in the order that they were sent.
-
-## How does it work?
-* Create a conversation and optionally invite others to join
-* Conversations can be read by anyone, but only those who were invited can write messages
-* The conversation starts when at least one person accepts the invitation
-
-## What can you do with it?
-* Invite one or more people to talk about a shared interest
-* Remove participants and invite new ones over time to cover a variety of topics
-* Interview or debate someone
-* Create a convo by yourself to post your thoughts on a specific topic — like
-  a Tweet thread, except it's organized
-* Post informative or entertaining content to your audience
-
-## Example convos
-* `Crypto`: What are the benefits and downsides of changing to a crypto-based economy?
-* `Politics`: What's the underlying psychological cause of the political divide in the US?
-* `Finance and Investment`: Post updates about your daily trading activity and discuss your reasoning
-  in real-time. 🚀 🌝?
-* `Fitness`: Share your daily workout routine and lessons learned.
-* `Music`: Post your favorite music discoveries. Share the beats.
-* `Humor`: Oh you're funny, you say? The floor is yours.
-
+#### ✍️ Create a text thread that anyone can read but only invited users can participate in
+#### 👀 Subscribe to other threads to follow them in real-time just like regular texting
+#### 😇 No algorithm -- just that sweet, sweet chronological feed

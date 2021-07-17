@@ -8,6 +8,11 @@ $section-headings-color: #729297;
 @import"{{ site.theme }}";
 
 $breakpoint-tablet: 768px;
+$ponder-color: #b2d2d7;
+
+body {
+  color: #444;
+}
 
 .home-button {
   position: absolute;
@@ -31,12 +36,16 @@ footer {
 
 .page-header {
   color:#222;
-  background-color:#b2d2d7;
+  background-color: $ponder-color;
   background-image:none
 }
 
 .main-content {
-  max-width: 900px;
+  max-width: 890px;
+
+  h4 {
+    color: #555;
+  }
 }
 
 .app-store-button {
