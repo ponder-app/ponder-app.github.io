@@ -3,7 +3,7 @@
 
 // h1, h2, etc
 // See: https://github.com/pages-themes/cayman/blob/master/_sass/variables.scss
-$section-headings-color: #729297;
+$section-headings-color: #555;
 
 @import"{{ site.theme }}";
 
@@ -43,8 +43,10 @@ footer {
 .main-content {
   max-width: 890px;
 
-  h4 {
-    color: #555;
+  .headline {
+    text-align: center;
+    font-family: monospace;
+    margin-bottom: 50px;
   }
 }
 
