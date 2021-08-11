@@ -1,6 +1,6 @@
 ---
-title: Ponder
-description: Invite-only texting that anyone can read
+title: PONDER
+description: Invite-only text threads that anyone can subscribe to
 ---
 {:.headline}
 <!-- The "?rel=0" at the end of the iframe src prevents video suggestions at the end of the vid -->
@@ -15,7 +15,6 @@ description: Invite-only texting that anyone can read
         allowfullscreen>
     </iframe>
 </div>
-### **TEXTING + (SOCIAL MEDIA) = INTERESTING CONVERSATIONS**
 #### ✍️ Create a text thread that anyone can read but only invited users can participate in
 #### 👀 Subscribe to other threads to follow them in real-time just like regular texting
 #### 😇 No algorithm — just that sweet, sweet chronological feed
