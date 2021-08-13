@@ -15,6 +15,3 @@ description: Invite-only text threads that anyone can subscribe to
         allowfullscreen>
     </iframe>
 </div>
-#### ✍️ Create a text thread where invited users can talk and anyone else can read
-#### 👀 Subscribe to other threads to follow them in real-time just like regular texting
-#### 😇 No algorithm — just that sweet, sweet chronological feed

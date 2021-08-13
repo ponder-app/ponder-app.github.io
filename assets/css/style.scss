@@ -39,10 +39,17 @@ footer {
   background-color: $ponder-color;
   background-image: none;
   font-family: monospace;
+  
+  @media screen and (min-width: 64em) {
+    padding: 3rem 6rem;
+  }
 }
 
 .main-content {
   max-width: 890px;
+  @media screen and (min-width: 64em) {
+    padding: 1rem 4rem;
+  }
 
   .headline {
     text-align: center;
