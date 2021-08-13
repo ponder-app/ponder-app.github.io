@@ -5,7 +5,7 @@ plugins:
 theme: jekyll-theme-cayman
 include:
   - .well-known
-title: Ponder
+title: Read interesting convos
 tagline: Invite-only texting that anyone can read
 url: https://www.getponder.com
 description: Invite-only texting that anyone can read

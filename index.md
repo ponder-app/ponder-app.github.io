@@ -1,5 +1,5 @@
 ---
-title: PONDER
+title: Ponder
 description: Invite-only text threads that anyone can subscribe to
 ---
 {:.headline}
