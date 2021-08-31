@@ -13,6 +13,7 @@ $ponder-color: #b2d2d7;
 body {
   color: #444;
   background-color: $ponder-color;
+  font-family: 'Inter', sans-serif;
 }
 
 .home-button {
@@ -39,7 +40,6 @@ footer {
   color:#222;
   background-color: $ponder-color;
   background-image: none;
-  font-family: monospace;
   
   @media screen and (min-width: 64em) {
     padding: 3rem 6rem;
@@ -54,7 +54,6 @@ footer {
 
   .headline {
     text-align: center;
-    font-family: monospace;
     margin-bottom: 50px;
   }
 }
